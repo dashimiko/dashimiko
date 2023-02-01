@@ -1,4 +1,4 @@
-### 𝙷𝚒, 𝙸'𝚖 𝙳𝚊𝚜𝚑𝚊
+### 𝗛𝗶, 𝗜'𝗺 𝗗𝗮𝘀𝗵𝗮
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=junior+Frontend+developer" alt="Typing SVG" /></a>
 
