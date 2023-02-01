@@ -1,4 +1,4 @@
-### Привет, меня зовут Даша <img src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="50">
+### Привет, меня зовут Даша
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Я+начинающий+фронтенд+разработчик" alt="Typing SVG" /></a>
 
