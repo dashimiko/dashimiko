@@ -1,4 +1,4 @@
-<h1>Hi,I'm Dasha<img src="https://media3.giphy.com/media/adi9Y9YdSpzOfdZ3UQ/giphy.gif?cid=ecf05e472ynv3ors1faqv896xiigdg8z5997koaqkesvx5w6&rid=giphy.gif&ct=g" width="50" height="50"></h1>
+<h1>Hi,I'm Dasha <img src="https://media3.giphy.com/media/adi9Y9YdSpzOfdZ3UQ/giphy.gif?cid=ecf05e472ynv3ors1faqv896xiigdg8z5997koaqkesvx5w6&rid=giphy.gif&ct=g" width="30" height="30"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=junior+Frontend+developer" alt="Typing SVG" /></a>
 
