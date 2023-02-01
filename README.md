@@ -1,13 +1,8 @@
-<h1 align="center">Hi there!</h1>
+### Привет, меня зовут Даша <img src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="50">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+learning+frontend+development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Я+начинающий+фронтенд+разработчик" alt="Typing SVG" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dashimiko&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dashimiko&repo=convoychat" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dashimiko&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **dashimiko/dashimiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
