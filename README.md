@@ -1,8 +1,6 @@
-### Привет, меня зовут Даша
+### Hi, I'm Dasha
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Я+начинающий+фронтенд+разработчик" alt="Typing SVG" /></a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dashimiko&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=junior+Frontend+developer" alt="Typing SVG" /></a>
 
 <!--
 **dashimiko/dashimiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
