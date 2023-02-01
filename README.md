@@ -17,8 +17,8 @@
 
 <h3>Stats:<h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashimiko&show_icons=true&locale=en&layout=compact&theme=react" alt="dashimiko" />
+<a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashimiko&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&include_all_commits=true&count_private=true&" alt="dashimiko" height="192px"/></a>
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dashimiko&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react" alt="dashimiko" height="192px"/></a>
+<br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dashimiko&show_icons=true&locale=en&theme=react" alt="dashimiko" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=react" alt="dashimiko" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=react&hide_border=true" alt="dashimiko" /></p>
