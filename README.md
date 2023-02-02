@@ -13,7 +13,7 @@
 
 - 📚 I've completed the Web Development training course by Yandex.Practicum
 
-- 📫 How to reach me: [email](dashamikolaichuk@gmail.com), [telegram](https://t.me/da_miko) 
+- 📫 How to reach me: [email](mailto:dashamikolaichuk@gmail.com?), [telegram](https://t.me/da_miko) 
 
 <h3>Stats:<h3>
   
