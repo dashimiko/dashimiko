@@ -3,7 +3,7 @@
 <h1 align="left">Hi there! <img src="https://media3.giphy.com/media/adi9Y9YdSpzOfdZ3UQ/giphy.gif?cid=ecf05e472ynv3ors1faqv896xiigdg8z5997koaqkesvx5w6&rid=giphy.gif&ct=g" alt="awesome parrot" with="35px" height="35px"></h1>
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=465&lines=I'm+Dasha;junior+Frontend+developer;always+learning+new+things;" alt="Typing SVG"/></a></p>
 
-<h3>About me:<h3>
+<h2>About me:<h3>
 
 - 🚀 My skills: REACT / JS / HTML / CSS / Webpack / Node.js / MongoDB  
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: [email](mailto:dashamikolaichuk@gmail.com?), [telegram](https://t.me/da_miko) 
 
-<h3>Stats:<h3>
+<h2>Stats:<h3>
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashimiko&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="dashimiko" height="192px" /></p>
   
