@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashimiko&label=Profile%20views&color=0e75b6&style=flat" alt="dashimiko" /> </p>
 
 <h1 align="left">Hi there! <img src="https://media3.giphy.com/media/adi9Y9YdSpzOfdZ3UQ/giphy.gif?cid=ecf05e472ynv3ors1faqv896xiigdg8z5997koaqkesvx5w6&rid=giphy.gif&ct=g" alt="awesome parrot" with="35px" height="35px"></h1>
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=465&lines=I'm+Dasha;junior+Frontend+developer;always+learning+new+things;" alt="Typing SVG"/></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=465&lines=I'm+Dasha;beginner+frontend+developer;always+learning+new+things;" alt="Typing SVG"/></a></p>
 
 <h2>About me:<h3>
 
-- 🚀 My skills: REACT / JS / HTML / CSS / Webpack / Node.js / MongoDB  
+- 🚀 My skills: JS / HTML / CSS / REACT / Webpack   
 
 - 🔭 My current focus is a deep dive into React, Redux and TypeScript
 
