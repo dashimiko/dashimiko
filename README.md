@@ -16,4 +16,4 @@
 
 <h2>Stats:<h3>
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=react&layout=compact&hide_border=true" alt="dashimiko" height="192px"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=react&layout=compact&hide_border=true&mode=weekly" alt="dashimiko" height="192px"/></p>
