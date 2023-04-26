@@ -16,7 +16,7 @@
 
 ## Stats:
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=react&layout=compact&hide_border=true&mode=weekly" alt="dashimiko" height="192px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=nord&layout=compact&hide_border=true&mode=weekly" alt="dashimiko" height="192px"/>
 
 ## Random Dev Quote:
   
