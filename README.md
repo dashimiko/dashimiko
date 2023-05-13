@@ -16,8 +16,8 @@
 
 ## Stats:
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=nord&layout=compact&hide_border=true&mode=weekly" alt="dashimiko" height="192px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dashimiko&theme=nord&layout=compact&hide_border=true&mode=weekly" alt="https://github-readme-streak-stats.herokuapp.com" height="192px"/>
 
 ## Random Dev Quote:
   
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="dashimiko" height="192px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="https://quotes-github-readme.vercel.app" height="192px"/>
