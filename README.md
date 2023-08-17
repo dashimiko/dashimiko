@@ -21,3 +21,5 @@
 ## Random Dev Quote:
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="https://quotes-github-readme.vercel.app" height="192px"/>
+
+<img src="https://www.codewars.com/users/da_miko/badges/large" alt="https://www.codewars.com/users/da_miko/badges/large"/>
